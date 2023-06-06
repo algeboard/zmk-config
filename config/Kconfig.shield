@@ -1,0 +1,8 @@
+# Copyright (c) 2020 Pete Johanson
+# SPDX-License-Identifier: MIT
+
+config SHIELD_ALGEBOARD_LEFT
+    def_bool $(shields_list_contains,algeboard_left)
+
+config SHIELD_ALGEBOARD_RIGHT
+    def_bool $(shields_list_contains,algeboard_right)
