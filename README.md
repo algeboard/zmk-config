@@ -1,10 +1,11 @@
 # The official ZMK config of Algeboard (V1/V2 before 2024)
 
+
 ## Build firmware with Github Actions
 
 ### Preparing
 
-- Fork the repo, or click the "Use this template" button to include all the branches
+- Click the "Use this template" button to include all the branches
 - After the fork, Make sure the Github Action of your repo is enabled
 
 ### Customize keymap
@@ -17,13 +18,13 @@
 
 # Algeboard ZMK 配置(V1/V2 2024年之的版本)
 
-!!⚠️ 新版本升级了主控，不能使用该仓库构建。
+!!⚠️ 新版本升级了主控，在 keymap-editor 中 Branch 选项选择 control/nicenano 。
 
 ## 使用 Github Actions 构建键盘固件
 
 ### 准备工作
 
-- 克隆这个仓库，或者点击“使用该模版” 按钮
+- 点击“使用该模版” 按钮克隆仓库
 - 克隆完成后，确保仓库 Github Action 是开启的。
 
 ### 自定义键映射
