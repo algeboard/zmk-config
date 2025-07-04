@@ -33,4 +33,3 @@
 - 修改完成后点击 Save 按钮，Github Action 会自动开始构建固件。
 - 该过程大概需要几分钟，等打包完成后，点击 fireware 按钮，跳转到 Github Action 的页面，页面下方有一个 fireware 的链接，点击链接即可下载固件。
 - 更多高级功能参考 [ZMK 文档](https://zmk.dev/docs/behaviors/layers)
-
