@@ -1,4 +1,4 @@
-# The official ZMK config of Algeboard (V1/V2 before 2024)
+# The official ZMK config of Algeboard (Nice Nano 2)
 
 ## Build firmware with Github Actions
 
@@ -15,9 +15,7 @@
 - It takes 4 - 7 minutes to build the firmware. Once it is finished, Click the "firmware" button, you'll be redirect to the Github Action page. Click the firmware link to download the firmware.
 - Add more layer as you like, remember to take a look at the document of [ZMK layer](https://zmk.dev/docs/behaviors/layers)
 
-# Algeboard ZMK 配置(V1/V2 2024年之的版本)
-
-!!⚠️ 新版本升级了主控，不能使用该仓库构建。
+# Algeboard ZMK 配置
 
 ## 使用 Github Actions 构建键盘固件
 
